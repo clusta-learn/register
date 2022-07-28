@@ -11,7 +11,7 @@ body{
   line-height: 1.5;
 }
 
-@media and screen (max-width= 762px){
+@media only screen and (max-width= 762px){
 
 header, main, footer, #sec1, #sec2, #sec3, #sec5, #sec6{
   padding: 10px 20px;
